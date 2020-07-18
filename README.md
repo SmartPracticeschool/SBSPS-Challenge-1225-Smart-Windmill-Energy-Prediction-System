@@ -4,5 +4,4 @@ Through this user can get the energy that can be generated for next 48 hours at 
 
 Video description of the project - https://drive.google.com/file/d/14WehkyT2Arrxg4Tu7rYa07bGd-Xw6El1/view?usp=sharing
 
-To test this app- 
-https://node-red-zbqsr.eu-gb.mybluemix.net/ui/#!/0?socketid=Mu53JjOJuVDLqwO7AAAA
+
